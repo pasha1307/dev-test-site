@@ -1,0 +1,28 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasha1307/dev-test-site.git"
+  },
+  "keywords": [
+    "test",
+    "gulp",
+    "webpack"
+  ],
+  "author": "ppk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasha1307/dev-test-site/issues"
+  },
+  "homepage": "https://github.com/pasha1307/dev-test-site#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
